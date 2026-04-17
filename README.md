@@ -6,6 +6,5 @@ Hi, I'm Fin (凤鸣) 🚀
 
 - The Journey: Embarking on a new path toward AGI.
 - Specialization: AI Coding & AI Agent Engineering.
-- The Project: Author of Hone-Financial, bridging investment research and technology.
-- Status: Open-sourcing soon—stay tuned!
+- The Project: Author of honeclaw (https://github.com/B-M-Capital-Research/honeclaw), bridging investment research and technology.
 - Way to AGI! (Note: Avatar is my wife; Code is mine.)
